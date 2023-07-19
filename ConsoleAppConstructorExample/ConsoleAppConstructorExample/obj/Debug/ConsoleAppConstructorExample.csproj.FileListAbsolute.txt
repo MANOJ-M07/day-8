@@ -1,0 +1,8 @@
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\bin\Debug\ConsoleAppConstructorExample.exe.config
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\bin\Debug\ConsoleAppConstructorExample.exe
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\bin\Debug\ConsoleAppConstructorExample.pdb
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\obj\Debug\ConsoleAppConstructorExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\obj\Debug\ConsoleAppConstructorExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\obj\Debug\ConsoleAppConstructorExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\obj\Debug\ConsoleAppConstructorExample.exe
+D:\simplilearn\day-8\ConsoleAppConstructorExample\ConsoleAppConstructorExample\obj\Debug\ConsoleAppConstructorExample.pdb

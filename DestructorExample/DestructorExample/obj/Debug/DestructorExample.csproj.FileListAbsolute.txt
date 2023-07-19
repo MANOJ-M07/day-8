@@ -1,0 +1,8 @@
+D:\simplilearn\day-8\DestructorExample\DestructorExample\bin\Debug\DestructorExample.exe.config
+D:\simplilearn\day-8\DestructorExample\DestructorExample\bin\Debug\DestructorExample.exe
+D:\simplilearn\day-8\DestructorExample\DestructorExample\bin\Debug\DestructorExample.pdb
+D:\simplilearn\day-8\DestructorExample\DestructorExample\obj\Debug\DestructorExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-8\DestructorExample\DestructorExample\obj\Debug\DestructorExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-8\DestructorExample\DestructorExample\obj\Debug\DestructorExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-8\DestructorExample\DestructorExample\obj\Debug\DestructorExample.exe
+D:\simplilearn\day-8\DestructorExample\DestructorExample\obj\Debug\DestructorExample.pdb

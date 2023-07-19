@@ -1,0 +1,8 @@
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\bin\Debug\FileHandlingExample.exe.config
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\bin\Debug\FileHandlingExample.exe
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\bin\Debug\FileHandlingExample.pdb
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.exe
+D:\simplilearn\day-8\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.pdb
